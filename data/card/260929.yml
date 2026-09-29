@@ -170,4 +170,3 @@ total:
 ---
 
 ---
-{"id":199960437,"author":{"login":"ekzhang","id":7550632,"node_id":"MDQ6VXNlcjc1NTA2MzI=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOG1an6s4L6yd1","tag_name":"v0.4.1","target_commitish":"main","name":"v0.4.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-02-12T20:39:39Z","updated_at":"2025-02-12T20:40:31Z","published_at":"2025-02-12T20:40:31Z","assets":[],"body":"This release fixes a really tricky bug. Ahh, software engineering will never get easier.\r\n\r\n## What's Changed\r\n* Fix RFC 8441 (WebSocket over HTTP/2) issue by @ekzhang in https://github.com/ekzhang/sshx/pull/123\r\n\r\n\r\n**Full Changelog**: https://github.com/ekzhang/sshx/compare/v0.4.0...v0.4.1","mentions_count":1}
