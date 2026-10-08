@@ -37,22 +37,22 @@ Total: **12,953** lines of code across **71** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,680 · **Forks**: 309 · **Open issues**: 98 · **Contributors**: 7
+- **Stars**: 7,682 · **Forks**: 309 · **Open issues**: 98 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 31 · **Open PRs**: 4 · **Closed issues**: 75 · **Open issues**: 23 · **Commits**: 319
+- **Releases**: 7 · **Merged PRs**: 31 · **Open PRs**: 6 · **Closed issues**: 75 · **Open issues**: 23 · **Commits**: 319
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-08 | 0 | 2 | 1 | 0 | 0 | 2 |
-| 90d | 2026-07-09 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last180d | 2026-04-10 | 0 | 2 | 2 | 0 | 3 | 2 |
-| 360d | 2025-10-12 | 0 | 2 | 3 | 0 | 7 | 2 |
-| last720d | 2024-10-17 | 4 | 13 | 4 | 16 | 11 | 24 |
+| 30d | 2026-09-08 | 0 | 2 | 3 | 0 | 0 | 2 |
+| last60d | 2026-08-09 | 0 | 2 | 3 | 0 | 0 | 2 |
+| 90d | 2026-07-10 | 0 | 2 | 3 | 0 | 0 | 2 |
+| last180d | 2026-04-11 | 0 | 2 | 4 | 0 | 3 | 2 |
+| 360d | 2025-10-13 | 0 | 2 | 5 | 0 | 6 | 2 |
+| last720d | 2024-10-18 | 4 | 13 | 6 | 16 | 11 | 24 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for sshx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:07:04Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:17:11Z._
