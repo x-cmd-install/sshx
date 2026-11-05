@@ -47,12 +47,12 @@ Total: **12,953** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-09-05 | 0 | 2 | 5 | 0 | 1 | 2 |
-| 90d | 2026-08-06 | 0 | 2 | 5 | 0 | 1 | 2 |
-| last180d | 2026-05-08 | 0 | 2 | 5 | 0 | 3 | 2 |
-| 360d | 2025-11-09 | 0 | 2 | 7 | 0 | 7 | 2 |
-| last720d | 2024-11-14 | 4 | 13 | 8 | 16 | 12 | 23 |
+| 30d | 2026-10-06 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-09-06 | 0 | 2 | 5 | 0 | 1 | 2 |
+| 90d | 2026-08-07 | 0 | 2 | 5 | 0 | 1 | 2 |
+| last180d | 2026-05-09 | 0 | 2 | 5 | 0 | 3 | 2 |
+| 360d | 2025-11-10 | 0 | 2 | 7 | 0 | 7 | 2 |
+| last720d | 2024-11-15 | 4 | 13 | 8 | 16 | 12 | 23 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for sshx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:38:54Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:54:42Z._
